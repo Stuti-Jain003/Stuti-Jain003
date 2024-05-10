@@ -1,6 +1,10 @@
 <h1 align="center">Hi,<img align="center" alt="coding" src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="45">
+ 
  I'm Stuti Jain</h1>
 <h3 align="center">A passionate frontend developer</h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=stuti-jain003)
+
 
 <img align="right" alt="coding" width="1000px" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif">
 <br>
