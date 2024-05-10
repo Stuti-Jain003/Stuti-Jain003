@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=stuti-jain003)
 
 
-<img align="right" alt="coding" width="1000px" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif">
+<img align="right" alt="coding" width="1000px" height="50%"  src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif">
 <br>
 - 🌱 I’m currently learning **backend frameworks** 
 
